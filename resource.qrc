@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/images (1).jpg</file>
+        <file>img/images (2).jpg</file>
+        <file>img/images (3).jpg</file>
+        <file>img/images (4).jpg</file>
+        <file>img/images (5).jpg</file>
+        <file>img/indian-food.jpg</file>
+        <file>img/pexels-photo-326278.jpeg</file>
+        <file>img/cover_plate_cutlery_restaurant_board_eat_table_fork-547968.jpg!d.jpeg</file>
+    </qresource>
+</RCC>

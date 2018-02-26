@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MenuCard</class>
+ <widget class="QMainWindow" name="MenuCard">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1181</width>
+    <height>638</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MenuCard</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-image: url(:/img/img/indian-food.jpg);</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>520</x>
+      <y>480</y>
+      <width>201</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>MENUCARD</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_48">
+    <property name="geometry">
+     <rect>
+      <x>210</x>
+      <y>220</y>
+      <width>821</width>
+      <height>101</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 57 italic 50pt &quot;URW Chancery L&quot;;
+color: rgb(64, 0, 97);
+</string>
+    </property>
+    <property name="text">
+     <string>EMBEDDED RESTAURANT</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>770</x>
+      <y>320</y>
+      <width>291</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 57 italic 22pt &quot;URW Chancery L&quot;;
+color: rgb(253, 0, 0);
+</string>
+    </property>
+    <property name="text">
+     <string>The Developers choice......</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>530</x>
+      <y>90</y>
+      <width>111</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 75 italic 22pt &quot;URW Palladio L&quot;;
+background-color: rgb(255, 255, 255);
+color: rgb(85, 0, 127);</string>
+    </property>
+    <property name="text">
+     <string>Welcome</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_3">
+    <property name="geometry">
+     <rect>
+      <x>570</x>
+      <y>160</y>
+      <width>31</width>
+      <height>61</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 75 italic 22pt &quot;URW Palladio L&quot;;
+color: rgb(85, 0, 127);</string>
+    </property>
+    <property name="text">
+     <string>To</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1181</width>
+     <height>25</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QToolBar" name="mainToolBar">
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
